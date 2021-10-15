@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\Patterns-20211015T141233Z-001\Patterns\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\User\Downloads\Patterns-20211015T141233Z-001\Patterns\Pattern\bin\Debug\Pattern.exe
+C:\Users\User\Downloads\Patterns-20211015T141233Z-001\Patterns\Pattern\bin\Debug\Pattern.pdb
+C:\Users\User\Downloads\Patterns-20211015T141233Z-001\Patterns\Pattern\obj\Debug\Pattern.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Patterns-20211015T141233Z-001\Patterns\Pattern\obj\Debug\Pattern.FormMain.resources
+C:\Users\User\Downloads\Patterns-20211015T141233Z-001\Patterns\Pattern\obj\Debug\Pattern.Properties.Resources.resources
+C:\Users\User\Downloads\Patterns-20211015T141233Z-001\Patterns\Pattern\obj\Debug\Pattern.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Patterns-20211015T141233Z-001\Patterns\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Patterns-20211015T141233Z-001\Patterns\Pattern\obj\Debug\Pattern.exe
+C:\Users\User\Downloads\Patterns-20211015T141233Z-001\Patterns\Pattern\obj\Debug\Pattern.pdb
